@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 Bugfix
+=======
+>>>>>>> Issue_02
 Bratnudeln
 
 Zutaten:
