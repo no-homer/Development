@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 Bugfix
 =======
+Branch 02
 >>>>>>> Issue_02
 Bratnudeln
 
