@@ -1,12 +1,3 @@
-
-<<<<<<< HEAD
-Bugfix01
-=======
-Bugfix
->>>>>>> falsche-zeilen-entfernen
-
-Branch 02
-
 Bratnudeln
 
 Zutaten:
