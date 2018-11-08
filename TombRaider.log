@@ -1,0 +1,73 @@
+22:31:10:727 (5912) > --- NIXXES log start ---
+22:31:10:728 (5912) > 
+22:31:10:728 (5912) > Memory statistics:
+22:31:10:729 (5912) >   Total RAM = 15.9 GB (16332 MB)
+22:31:10:729 (5912) >   Avail RAM = 13.2 GB (13494 MB)
+22:31:10:729 (5912) >   Total virtual memory = 4.0 GB (4095 MB)
+22:31:10:729 (5912) >   Avail virtual memory = 3.4 GB (3442 MB)
+22:31:10:730 (5912) > OS = Windows 8 (build 9200)
+22:31:10:730 (5912) > Starting Tomb Raider v1.01.748.0
+22:31:15:075 (5912) > [Main] Current directory: D:\Steam_Installation_Dir\steamapps\common\Tomb Raider
+22:31:15:158 (5912) > Mounted TITLE.000
+22:31:15:159 (5912) > Mounted PATCH.000
+22:31:15:159 (5912) > Mounted PATCH2.000
+22:31:15:196 (5912) > [Render] PCDeviceManager constructor start
+22:31:15:549 (5912) > [Render] PCDeviceManager constructor end
+22:31:15:701 (5912) > [Render] PCDX11DeviceManager constructor start
+22:31:15:704 (5912) > D3D Adapter Information:
+22:31:15:704 (5912) > Adapter Description: NVIDIA GeForce GTX 1060 3GB
+22:31:15:704 (5912) > VendorID: 10de
+22:31:15:704 (5912) > DeviceID: 1c02
+22:31:15:704 (5912) > Revision: a1
+22:31:15:705 (5912) > NVidia hardware detected. Attemping to load NVAPI...
+22:31:15:705 (5912) > NVAPI loaded succesfully.
+22:31:15:792 (5912) > NvAPI_Stereo_IsEnabled() returned an error: -140
+22:31:15:826 (5912) > Reducing mouse lag by setting frame latency to 1...
+22:31:15:826 (5912) > D3D reports feature level 11 is supported.
+22:31:15:828 (5912) > NVAPI Depth Bounds Test supported.
+22:31:15:870 (5912) > D3D Adapter Information:
+22:31:15:870 (5912) > Adapter Description: Microsoft Basic Render Driver
+22:31:15:870 (5912) > VendorID: 1414
+22:31:15:871 (5912) > DeviceID: 8c
+22:31:15:871 (5912) > Revision: 0
+22:31:15:877 (5912) > Reducing mouse lag by setting frame latency to 1...
+22:31:15:877 (5912) > D3D reports feature level 11 is supported.
+22:31:15:877 (5912) > D3D reports no hardware multiple command list support.
+22:31:15:877 (5912) > D3D reports no hardware concurrent creates.
+22:31:15:877 (5912) > [Render] Adapter M has no outputs!
+22:31:15:878 (5912) > [Render] PCDX11DeviceManager constructor end
+22:31:45:183 (5912) > CPU count: logical = 12, cores = 6, physical = 1
+22:31:45:189 (5912) > D3D Adapter Information:
+22:31:45:189 (5912) > Adapter Description: NVIDIA GeForce GTX 1060 3GB
+22:31:45:189 (5912) > VendorID: 10de
+22:31:45:190 (5912) > DeviceID: 1c02
+22:31:45:190 (5912) > Revision: a1
+22:31:45:190 (5912) > NVidia hardware detected. Attemping to load NVAPI...
+22:31:45:190 (5912) > NVAPI loaded succesfully.
+22:31:45:191 (5912) > NvAPI_Stereo_IsEnabled() returned an error: -140
+22:31:45:225 (5912) > Reducing mouse lag by setting frame latency to 1...
+22:31:45:226 (5912) > D3D reports feature level 11 is supported.
+22:31:45:226 (5912) > NVAPI Depth Bounds Test supported.
+22:31:45:232 (6232) > CreateSwapChain() = 0
+22:31:45:232 (6232) > MakeWindowAssociation() = 0
+22:31:45:541 (6232) > SetFullscreenState() = 0
+22:31:45:644 (5912) > [Render] Using DirectX 11
+22:31:45:785 (5912) > Initalizing audio...
+22:31:45:951 (5912) > Audio device found. FMOD reports 3 driver(s).
+22:31:45:952 (5912) > Audio Driver Name: Lautsprecher (Realtek High Definition Audio)
+22:31:45:952 (5912) > Speaker Mode: 6
+22:31:49:539 (5912) > OLWebServiceClient [Status:200] [DownloadEvent:Finished] [HttpError:OK] [ServerError:OK]
+22:31:57:915 (5912) > Request (SEM_Login) [Id:0] failed ! [Status:404] [DownloadEvent:Resource Error] [HttpError:Response Status Code] [ServerError:OK]
+22:32:04:000 (5912) > Request (GetPlayerProfileFrom) [Id:1] failed ! [Status:404] [DownloadEvent:Resource Error] [HttpError:Response Status Code] [ServerError:OK]
+22:32:46:654 (5912) > DX11RenderContext:---OnSettingsChanged ---
+22:32:46:655 (5912) > PCDX11RenderContext::Resize(1920, 1080, True)
+22:32:46:769 (6232) > ResizeSwapChain(1920,1080) == 0
+22:33:07:796 (5912) > Player object AddRef laracroft: 1 => 2
+22:33:07:798 (5912) > Player object AddRef laracroft: 2 => 3
+22:33:07:803 (5912) > Player object AddRef laracroft: 3 => 4
+22:33:07:931 (5912) > The request (UpdatePlayer) [Id:6] hasn't been setup properly.
+22:34:16:532 (5912) > Player object RemRef laracroft: 4 => 3
+22:34:16:533 (5912) > Player object RemRef laracroft: 3 => 2
+22:34:16:533 (5912) > Player object RemRef laracroft: 2 => 1
+22:34:30:201 (5912) > Player object RemRef laracroft: 1 => 0
+22:34:51:616 (5912) > Exiting the game.
