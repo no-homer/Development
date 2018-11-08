@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-hotfix
-=======
-feat-01
->>>>>>> feat-01
-
-Bratnudeln
+﻿Bratnudeln
 
 Zutaten:
 
